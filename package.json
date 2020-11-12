@@ -1,0 +1,26 @@
+{
+  "name": "erc20-tokens-snapshot",
+  "version": "0.0.1",
+  "description": "script to get holder balances on specific block",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytumanov/erc20-tokens-snapshot.git"
+  },
+  "keywords": [
+    "erc20",
+    "ethereum"
+  ],
+  "author": "Yaroslav Tumanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytumanov/erc20-tokens-snapshot/issues"
+  },
+  "homepage": "https://github.com/ytumanov/erc20-tokens-snapshot#readme",
+  "devDependencies": {
+    "web3": "1.3.0"
+  }
+}
